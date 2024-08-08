@@ -6,6 +6,7 @@ Sono una persona socievole e appassionata di tecnologia, con il desiderio di tra
 ---
 
 ### Languages/Tools:
+<p align="center">
   <img src="./img/skills/html.svg" alt="HTML" width="50" height="50"/>
   <img src="./img/skills/css.svg" alt="CSS" width="50" height="50"/>
   <img src="./img/skills/javascript.svg" alt="JavaScript" width="50" height="50"/>
@@ -26,9 +27,7 @@ Sono una persona socievole e appassionata di tecnologia, con il desiderio di tra
   <img src="./img/skills/postman.svg" alt="postman" width="50" height="50"/>
   <img src="./img/skills/react.svg" alt="React" width="50" height="50"/>
   <img src="./img/skills/tailwind.svg" alt="Node.js" width="50" height="50"/>
-
-  <!-- Aggiungi altri loghi qui se necessario -->
-
+</p>
 ---
 
 ### Contact:
