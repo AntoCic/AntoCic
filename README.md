@@ -31,16 +31,18 @@ Sono una persona socievole e appassionata di tecnologia, con il desiderio di tra
 
 ---
 
-<div style="display: flex; align-items: center;">
-    <div style="flex-grow: 1;">
-        <strong>Email:</strong> <a href="mailto:anto.cic.127@gmail.com">anto.cic.127@gmail.com</a> <br>
-        <strong>Telefono:</strong> <a href="tel:+39 3295436315">+39 3295436315</a><br>
-        <strong>WebSite Portfolio:</strong> <a href="https://portfolio-antocic.netlify.app/">portfolio-antocic</a> <br>
-        <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/Antonino-Cicala">Antonino Cicala</a> <br>
-        <strong>GitHub:</strong> <a href="https://github.com/AntoCic">AntoCic</a>
-    </div>
-    <div style="flex-grow: 1;">
-        <img src="./img/foto_profilo.png" alt="Antonino Cicala" width="150" height="150" style="border-radius:50%;" />
-    </div>
-</div>
+<h3 align="center">Contact: </h3>
+<table>
+  <tr>
+    <td>
+      <img src="./img/foto_profilo.png" alt="Antonino Cicala" width="150" height="150" style="border-radius:50%;"/>
+    </td>
+    <td>
+      <strong>Email:</strong> <a href="mailto:anto.cic.127@gmail.com">anto.cic.127@gmail.com</a> <br>
+      <strong>Telefono:</strong> +39 3295436315 <br>
+      <strong>WebSite Portfolio:</strong> <a href="https://portfolio-antocic.netlify.app">portfolio-antocic</a> <br>
+      <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/Antonino-Cicala">Antonino-Cicala</a> <br>
+    </td>
+  </tr>
+</table>
 
